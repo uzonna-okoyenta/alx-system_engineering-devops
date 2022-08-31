@@ -1,3 +1,2 @@
-#!/bin/bash\ncd ~
-#!bin/bash
-cd ~
+#!/bin/bash
+cd~

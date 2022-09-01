@@ -1,1 +1,2 @@
 #!/bin/bashile -m school.mgc*
+#!/bin/bashile -m school.mgc *
